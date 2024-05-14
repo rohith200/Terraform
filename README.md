@@ -5,7 +5,7 @@ A sample repository to create EKS on AWS using Terraform.
 ![image](https://github.com/rohith200/Terraform/assets/42884535/33f75b9e-0b03-4fca-8b97-696d6689baf6)
 
 
-As the first step, you need to install AWS CLI as we will use the AWS CLI (`aws configure`) command to connect Terraform with AWS in the next steps.
+As the first step, we need to install AWS CLI as we will use the AWS CLI (`aws configure`) command to connect Terraform with AWS in the next steps.
 
 Follow the below link to Install AWS CLI.
 ```
@@ -46,7 +46,7 @@ Run `terraform plan` to see the configuration it creates when executed.
 ![image](https://github.com/rohith200/Terraform/assets/42884535/f963cb4f-a4f4-4bfc-af3f-6e0cda4f43be)
 ![image](https://github.com/rohith200/Terraform/assets/42884535/ad66bb43-3ff5-4fc7-98cd-745c78ec9eda)
 
-Below images looks in AWS Dashboard
+After execution of above command the Infrastructure gets created in AWS Dashboard as below images
 ![image](https://github.com/rohith200/Terraform/assets/42884535/43c9af08-3ecb-474e-aa0a-14c451a7a498)
 ![image](https://github.com/rohith200/Terraform/assets/42884535/d04ae7b7-fe54-4030-8708-ae246f972f7b)
 ![image](https://github.com/rohith200/Terraform/assets/42884535/a8734537-7e4c-411b-903d-59353114196e)
